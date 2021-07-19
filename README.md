@@ -5,6 +5,7 @@ FullStack Developer Student 👩‍💻
 Lover of Technology ,Coding and Rock 'n' Roll
 
 ## About me 
+[![Linkedin Badge](https://img.shields.io/badge/-CesarMazzaro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cesar-mazzaro-8844b5118/)](https://www.linkedin.com/in/cesar-mazzaro-8844b5118/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/cesarakt)](https://github.com/cesarakt)
 
 ## Languages and Tools:
