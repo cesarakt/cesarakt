@@ -9,7 +9,7 @@ Lover of Technology ,Coding and Rock 'n' Roll
 
 ## Languages and Tools:
 [![cesarakt GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarakt)](https://github.com/cesarakt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarakt&layout=compact)](https://github.com/cesarakt/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarakt&layout=compact)](https://github.com/cesarakt)
 
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
