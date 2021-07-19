@@ -8,7 +8,7 @@ Lover of Technology ,Coding and Rock 'n' Roll
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/cesarakt)](https://github.com/cesarakt)
 
 ## Languages and Tools:
-[![cesarakt GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarakt)](https://github.com/cesarakt/github-readme-stats)
+[![cesarakt GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarakt)](https://github.com/cesarakt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarakt&layout=compact)](https://github.com/cesarakt/github-readme-stats)
 
 
