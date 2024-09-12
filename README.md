@@ -1,6 +1,6 @@
 ## Hello World, I'm Cesar Mazzaro!! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
-FullStack Developer Student 👩‍💻
+Developer at Elogroup 👩‍💻
 
 Lover of Technology ,Coding and Rock 'n' Roll
 
